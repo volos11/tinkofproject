@@ -1,0 +1,2 @@
+[2020-6-2 09:39:18] layer "+7 (495) 785 57 85 (Москва) 8 800 200 00 35 (Регионы)": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-6-2 09:39:18] layer "+7 495 78-888-78 (частным лицам) +7 495 755-58-58 (бизнесу)": Expected Either a default asset specification or a layer asset specification but "+" found.
